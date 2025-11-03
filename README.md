@@ -17,6 +17,6 @@
  - Советы дня 
 
 ## 📞Контакты для связи:
--**Email**: valeriyaaa2020@mail.ru
--**Telegram**: @llerkos
--**GitHub**: 
+- **Email**: valeriyaaa2020@mail.ru
+- **Telegram**: @llerkos
+- **GitHub**: @Valeriyakos
